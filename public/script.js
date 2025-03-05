@@ -34,7 +34,7 @@ function getWeather() {
         });
 }
 
-// fadea in väder rutan????
+
 
 function displayWeather(data) {
     let tempDivInfo = document.getElementById("temp-div");
